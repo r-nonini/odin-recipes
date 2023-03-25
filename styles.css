@@ -1,0 +1,32 @@
+body {
+  font-family: sans-serif;
+  background-color: rgb(188, 109, 81);
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+.recipe-pic {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 10px;
+  margin: auto;
+}
+
+.recipe-content {
+  width: 70%;
+  min-width: 300px;
+  background-color: rgb(255, 239, 219);
+  margin: auto;
+  padding: 40px;
+  border-radius: 20px;
+}
+
+.description {
+  margin: 40px auto;
+}
